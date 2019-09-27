@@ -1,0 +1,17 @@
+title: Code of Conduct
+description: Responsible for enforcing AMP's Code of Conduct. (The Technical Steering Committee delegates its responsibility for enforcement of the Code of Conduct to this Working Group.)
+facilitator:
+  login: nainar
+  name: Naina Raisinghani
+members:
+  - login: danielrozenberg
+    name: Daniel Rozenberg
+  - login: estherkim
+    name: Esther Kim
+  - login: jpettitt
+    name: John Pettitt
+communication:
+  - channel: email
+    name: Email
+    content:
+      - item: "Emailing the following alias: `amphtml-coc@googlegroups.com`."
