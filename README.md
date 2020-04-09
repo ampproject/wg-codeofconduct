@@ -12,7 +12,7 @@ The GitHub team https://github.com/orgs/ampproject/teams/wg-codeofconduct also i
 
 # Communication Channels
 To reach the Code of Conduct WG please use one of the following methods:
-- Emailing the following alias: `amphtml-coc@googlegroups.com`.
+- Emailing the following alias: `code-of-conduct@amp.dev`.
 - `@ampproject/wg-codeofconduct` can be used to mention the Code of Conduct Working Group in issues and PRs.
 - Reaching out to the individual members listed above. 
 
