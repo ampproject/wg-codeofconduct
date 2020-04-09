@@ -5,7 +5,6 @@ Facilitator: @nainar
 
 # Members
 - [@nainar](https://github.com/nainar) - Naina Raisinghani (Facilitator)
-- [@danielrozenberg](https://github.com/danielrozenberg) - Daniel Rozenberg
 - [@estherkim](https://github.com/estherkim) - Esther Kim
 - [@jpettitt](https://github.com/jpettitt) - John Pettitt
 
