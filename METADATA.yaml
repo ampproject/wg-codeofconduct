@@ -4,8 +4,6 @@ facilitator:
   login: nainar
   name: Naina Raisinghani
 members:
-  - login: danielrozenberg
-    name: Daniel Rozenberg
   - login: estherkim
     name: Esther Kim
   - login: jpettitt
@@ -14,4 +12,9 @@ communication:
   - channel: email
     name: Email
     content:
-      - item: "Emailing the following alias: `amphtml-coc@googlegroups.com`."
+      - item: "Emailing the following alias: `code-of-conduct@amp.dev`."
+  - channel: github
+    name: GitHub
+    content:
+      - item: "`@ampproject/wg-codeofconduct` can be used to mention the Code of Conduct Working Group in issues and PRs."
+  
